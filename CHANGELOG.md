@@ -14,8 +14,8 @@ Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
 - Migrado el proyecto de Create React App a Vite, directo a Radix sin pasar
   por baseui: `hecho` solo usaba `Button`, `Input` y el `CategorySelect`
-  creatable, ya resueltos en `por-hacer`. Ver
-  [por-hacer/TODO — ahora por-hacer.md](https://github.com/tecnocoopcl/por-hacer/blob/main/CHANGELOG.md)
+  creatable, ya resueltos en `por-hacer`. Ver el
+  [CHANGELOG de por-hacer](https://github.com/tecnocoopcl/por-hacer/blob/main/CHANGELOG.md)
   para el detalle de esa migración y las dos trampas de Radix que costaron
   tiempo ahí (combobox y foco del diálogo).
 - `src/ui` reúne `Button`, `Input`, `CategorySelect` y `colorForCategoria`,

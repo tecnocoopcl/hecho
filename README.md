@@ -43,7 +43,7 @@ subdominio debe apuntar por CNAME a `tecnocoopcl.github.io`.
 Los componentes compartidos (Button, Input, CategorySelect) viven en
 `src/ui`, construidos sobre [Radix](https://www.radix-ui.com/) y copiados
 desde `por-hacer` hasta que se publiquen como `@newale/ui`. Ver
-[hecho.md](hecho.md) para lo pendiente.
+[POR-HACER.md](POR-HACER.md) para lo pendiente.
 
 Los gráficos de la vista de estadísticas usan
 [recharts](https://recharts.org/), independiente del sistema de diseño.
